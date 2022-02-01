@@ -17,6 +17,12 @@ h1 {
 .caluclator {
   margin-left: 40em;
   margin-right: auto;
+  width: auto;
+  border: solid black;
+}
+
+.inputField {
+  margin-bottom: 10px;
 }
 
 .clear,
