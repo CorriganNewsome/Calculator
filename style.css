@@ -11,4 +11,31 @@ h1 {
   text-align: center;
   font-family: sans-serif;
   padding-top: 20px;
+  margin-bottom: 70px;
+}
+
+.caluclator {
+  margin-left: 40em;
+  margin-right: auto;
+}
+
+.clear,
+.add,
+.equals,
+.one,
+.two,
+.three,
+.four,
+.five,
+.six,
+.seven,
+.eight,
+.nine,
+.zero,
+.multiply,
+.subtract,
+.divide,
+.reset,
+.inputField {
+  padding: 20px;
 }
