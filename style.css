@@ -15,10 +15,10 @@ h1 {
 }
 
 .caluclator {
-  margin-left: 40em;
+  width: 300px;
+  margin-left: auto;
   margin-right: auto;
-  width: auto;
-  border: solid black;
+  margin: 0 auto;
 }
 
 .inputField {
